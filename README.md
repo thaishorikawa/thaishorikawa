@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thaishorikawa
-- 👀 I’m interested in HTML, CSS, JS
+- 👀 I’m interested in HTML, CSS, JS and JAVA.
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on OPEN SOURCE PROJECTS
 - 📫 How to reach me thaishorikawa@hotmail.com
